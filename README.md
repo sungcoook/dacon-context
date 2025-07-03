@@ -17,7 +17,7 @@
 
 ### 1. 데이터 다운로드
 
-- [데이터 페이지](https://dacon.io/competitions/official/236489/data)에서 `train.csv`, `test.csv`, `sample_submission.csv`를 다운로드하여 프로젝트 폴더(예: `data/`)에 저장합니다.
+- [데이터 페이지](https://dacon.io/competitions/official/236489/data)
 
 ### 2. 환경 세팅
 
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ### 3. 모델별 추론 결과 생성
 
-- 각 모델별로 아래와 같이 실행하여 결과(`results/exp21.csv` 등)를 생성합니다.
+- 각 모델별로 아래와 같이 실행하여 csv파일 결과를 생성합니다.
 
 ```bash
 python src/exp21.py
@@ -35,7 +35,7 @@ python src/exp22.py
 python src/exp36.py
 ```
 
-- (Colab 환경에서 실행한 경우, `notebook/` 폴더 참고)
+- (notebook/exp19.ipynb는 Colab A100환경에서 훈련 및 추론)
 
 ### 4. 앙상블(보팅) 추론
 
