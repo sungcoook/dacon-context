@@ -6,10 +6,6 @@
 - **목표:**  
   섞여 있는 4개의 한국어 문장에 대해, 가장 자연스러운 문장 순서를 예측하는 AI 알고리즘 개발
 
-- **데이터 구성:**  
-  - `train.csv`: sentence_0~3(섞인 문장), answer_0~3(정답 순서)
-  - `test.csv`: sentence_0~3(섞인 문장)
-  - `sample_submission.csv`: 제출 양식
 
 ---
 
