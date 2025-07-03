@@ -6,13 +6,15 @@
 - **목표:**  
   섞여 있는 4개의 한국어 문장에 대해, 가장 자연스러운 문장 순서를 예측하는 AI 알고리즘 개발
 
-✅ 로컬 환경
-	•	OS: Ubuntu 22.04
-	•	Python: 3.11
-	•	GPU: NVIDIA GeForce RTX 4060 Ti
-	•	CPU: AMD Ryzen 5 2600
-	•	RAM: 32GB
----
+
+## 💻 실행 환경
+
+### ✅ 로컬 환경
+
+- OS: Ubuntu 22.04  
+- Python: 3.11  
+- GPU: NVIDIA GeForce RTX 4060 Ti  
+- CPU: AMD Ryzen
 
 ## 🚀 실행 방법
 
