@@ -16,6 +16,11 @@
 - GPU: NVIDIA GeForce RTX 4060 Ti  
 - CPU: AMD Ryzen
 
+### ✅ Colab 환경
+
+- 런타임: Google Colab Pro  
+- GPU: NVIDIA A100
+- 
 ## 🚀 실행 방법
 
 ### 1. 데이터 다운로드
