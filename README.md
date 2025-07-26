@@ -14,7 +14,7 @@
 - OS: Ubuntu 22.04  
 - Python: 3.11  
 - GPU: NVIDIA GeForce RTX 4060 Ti  
-- CPU: AMD Ryzen
+- CPU: AMD Ryzen 5 2600
 
 ### ✅ Colab 환경
 
